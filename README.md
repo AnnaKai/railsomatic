@@ -1,1 +1,1 @@
-Ruby 2.5 + Rails 5 + Rspec + ES6 via Webpacker + jQuery 3
+Ruby 2.7 + Rails 6 + Rspec + ES6 via Webpacker
