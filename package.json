@@ -2,9 +2,12 @@
   "dependencies": {
     "@rails/webpacker": "5.1.1",
     "coffeescript": "1.12.7",
+    "global": "^4.4.0",
     "jquery-ujs": "^1.2.2"
   },
   "devDependencies": {
-    "webpack-dev-server": "^3.11.0"
+    "@rails/ujs": "^6.1.1",
+    "jquery": "^3.5.1",
+    "webpack-dev-server": "^3.11.2"
   }
 }
